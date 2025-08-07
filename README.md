@@ -44,3 +44,25 @@ On the fifth day, our section was called to complete the ID card registration. T
 
 ### Day 6
 
+The sixth day of our induction program started with a Chemistry class conducted by Mr. Karan Bhalla. As soon as he entered the room, he greeted all of us with a warm smile, which created a positive and welcoming atmosphere. He began the session by asking each student to introduce themselves, which helped in building a connection with the class. His way of talking was very polite and respectful, and he made sure everyone felt comfortable during the interaction. After the introductions, he moved on to teaching a few important Chemistry formulas. Even though it was our first class, the way he explained everything made the concepts easy to understand. His teaching style was simple yet effective, and it left a good impression on all of us. It didn’t feel like a typical lecture — it was more like a smooth start to our academic journey in college.
+
+After a short break, our next session was English, taken by Professor Nisha Ma’am. She also started with introductions but went one step further by giving each student feedback on how they could improve themselves. She was very observant and quickly noticed areas where we could do better — whether it was confidence, fluency, or clarity while speaking. Instead of pointing out flaws in a negative way, she guided us positively and encouraged everyone to work on their communication skills. Her session was extremely helpful and gave us the motivation to become better speakers. It felt more like a personality development class than just an English lecture.
+
+After the academic sessions, we attended two guest lectures in the auditorium. The first lecture was delivered by Mr. Arvind Jhingra, who is the Director of STEP and also Incharge of TAC. He spoke in a very engaging way and shared valuable insights about various opportunities available through STEP and how students can benefit from them during their time at college. He also explained how TAC supports students in developing their technical and professional skills.The second lecture was delivered by Mr. Lakhvir Singh Khanna, who is the Incharge of the Central Mechanical Lab (CML). His session was highly informative and focused on the importance of practical learning in engineering. He explained how the labs in our college are designed to provide hands-on experience, which is essential for understanding real-world applications of theoretical knowledge. He also emphasized the value of discipline, curiosity, and consistency in approaching lab work. Apart from this, he gave us an overview of various technical resources and facilities available in CML and encouraged us to make the most of them. His passion for teaching and focus on student development made the session truly inspiring. It motivated many of us to take our practical subjects more seriously and explore beyond just textbooks.
+
+
+### Day 7
+
+The seventh day of the induction program was informative and engaging. It gave us important insights into our upcoming academic life and professional world.
+
+The day began in the auditorium with a session on Digital Marketing Concepts (DMC) by Dr. Amit Kamra. He explained the fundamentals of digital marketing, including the use of social media platforms, data analytics, and online consumer behavior. His examples were relatable, and the session gave us a clear idea of how digital marketing has become essential in today's technology-driven world.
+
+After that, we attended an important session conducted by Dr. Arvind Jhingra, the Director of STEP and Incharge of TAC. He introduced us to the initiatives and training programs under STEP (Science & Technology Entrepreneurs Park). He explained how students can benefit from entrepreneurship workshops, internships, and various innovation-based projects. He also motivated us to take part in activities that build practical skills beyond classroom learning.
+
+Following this, Dr. Randhir Singh took a session to inform us about the examination system. He covered all the essential points regarding the internal assessment process, external exams, attendance criteria, and overall academic regulations. His explanations were very clear and gave us a better understanding of how to stay prepared throughout the semester.
+
+Later, another faculty member gave a talk about the different courses and branches available in the college, their scope, and how students can align them with their career goals. He emphasized the importance of making informed decisions and making the best use of resources provided by the college. This session was quite motivating and helped us understand the larger vision of our educational journey.
+
+To end the day, we had a class of Basic Electrical and Electronics Engineering (BEEE) conducted by Prof. Mandeep Kaur. She introduced us to the basics of electricity and electronics, the core concepts involved, and how the subject connects with real-life applications in engineering. Her teaching style was very effective, and we found the class interesting and easy to grasp.
+
+
