@@ -21,5 +21,26 @@ The third day of the induction programme was all about gaining knowledge and new
 After that, we had the second lecture by Dr. Priya Darshni Madam, who spoke on the topic of Universal Human Values. Her session was more emotional and thought-provoking. She talked about the importance of kindness, respect, empathy, and living a meaningful life. The way she explained the connection between values and real-life situations made it very relatable. She encouraged us to look within ourselves and think about how we treat others, not just focus on academic success.
 
 Both the lectures were quite different in nature — one was more academic, and the other focused on life and character — but together, they made the day truly impactful. It felt like we didn’t just attend lectures, but actually learned something valuable for life.
+### Day 4
 
+The fourth day of the induction programme felt different, as it was the first time we attended our actual college classes. Until now, most of the sessions were introductory or seminar-based, but Day 4 gave us the real feeling of being engineering students. The first class of the day was P2P (Peer to Peer Learning), which was conducted by our seniors. They started by teaching us the basics of C++ programming. We were shown how to write a simple "Hello World" program, and they explained each line in a very easy-to-understand way. Most of us were completely new to coding, but the friendly nature of the seniors made us feel comfortable. They encouraged us to ask doubts and learn at our own pace. It felt great to learn something practical right from the beginning.
+
+After that, we had our second class — BEEE (Basic Electrical and Electronics Engineering) — where we were introduced to the subject by Professor Harminder Kaur. She welcomed us warmly and interacted with everyone to make the session more engaging. Instead of jumping directly into the syllabus, she took the time to know us, asked about our interests, and explained how this subject will be helpful in the coming semesters. Her way of explaining things was clear and encouraging, which made a good first impression on all of us.
+
+After these two sessions, we had a short break, which gave us time to relax and interact with our new classmates. It was a much-needed pause in the middle of a full day.
+
+Post-break, we had a lecture on Universal Human Values (UHV). The session focused on understanding life beyond academics — values like respect, kindness, empathy, and self-awareness were discussed. The way the concepts were explained made us think deeply about our behavior and mindset. It was a peaceful and meaningful session.
+
+The final session of the day was conducted by the Causmic Club. The members of the club introduced themselves and gave us a detailed overview of what the club does. They shared their experiences, activities, and the opportunities we could get by being part of it. It was exciting to see how college is not just about studies, but also about clubs, events, and exploring our interests.
+
+Overall, Day 4 was long, but full of learning, interactions, and new experiences. It felt like we were 
+
+truly becoming a part of the college.
+
+
+### Day 5
+On the fifth day, our section was called to complete the ID card registration. The process was quick and simple. Just like that, our day came to an end.
+
+
+### Day 6
 
